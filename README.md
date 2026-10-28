@@ -1,6 +1,6 @@
 # Pandora 技能仓库
 
-供 Pandora 技能安装器列出和安装技能。当前为私有仓库，访问时需要通过 `GH_TOKEN` 或 `GITHUB_TOKEN` 提供有读取权限的 GitHub 凭据。
+供 Pandora 技能安装器列出和安装技能。仓库公开，列出和下载公开技能无需 GitHub 凭据；可通过 `GH_TOKEN` 或 `GITHUB_TOKEN` 提供凭据以提高 GitHub API 请求额度，或访问其他私有仓库。
 
 ## 目录
 
