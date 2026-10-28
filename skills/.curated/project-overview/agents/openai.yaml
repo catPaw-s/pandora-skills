@@ -1,0 +1,3 @@
+interface:
+  display_name: "项目概览"
+  short_description: "根据仓库实际文件梳理项目用途、模块职责、运行入口和验证方式"
